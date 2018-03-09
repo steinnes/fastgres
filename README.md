@@ -1,4 +1,4 @@
-# postfast
+# fastgres
 
 This repository contains the Dockerfiles and build script to create unsafe, but
 much faster versions of the standard postgres Dockers.  The purpose of these is
@@ -18,11 +18,11 @@ optimization parameters are lifted.
 
 ## Usage
 
-Just use `steinnes/postfast:9.[345]` where you would normally use `postgres:9.[345]`
+Just use `steinnes/fastgres:9.[3456]` where you would normally use `postgres:9.[3456]`
 in your Dockerfiles or docker-compose service files.
 
 
-## Companies using postfast
+## Companies using fastgres
 
 ### [Takumi][2]
 

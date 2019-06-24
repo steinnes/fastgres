@@ -1,4 +1,4 @@
-VERSIONS := 9.3 9.4 9.5 9.6
+VERSIONS := 9.3 9.4 9.5 9.6 10.6
 
 all: $(VERSIONS)
 
